@@ -39,4 +39,4 @@ python3 flip.jpg output.jpg
 | --- | --- |
 | ![](input.jpg) | ![](output.jpg) |
 
-以上ああ
+以上
